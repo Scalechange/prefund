@@ -1,0 +1,63 @@
+.reveal-modal-bg {
+  position: fixed;
+  height: 100%;
+  width: 100%;
+  background: black;
+  background: rgba(0, 0, 0, 0.45);
+  z-index: 98;
+  display: none;
+  top: 0;
+  left: 0; }
+
+.reveal-modal {
+  visibility: hidden;
+  display: none;
+  position: absolute;  
+  z-index: 99;
+  height: auto;
+  margin-left: 1%;
+  width: 90%;
+  background-color: white;
+  padding: 0 4%;
+  border: none;
+  -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+  top: 24px; }
+  .reveal-modal .column,
+  .reveal-modal .columns {
+    min-width: 0; }
+  .reveal-modal > :first-child {
+    margin-top: 0; }
+  .reveal-modal > :last-child {
+    margin-bottom: 0; }
+  .reveal-modal .close-reveal-modal {
+    font-size: 20px; font-size: 2rem;
+    line-height: 1;
+    position: absolute;
+    top: 6px; top: 0.6rem;
+    right: 6px; right: 0.6rem;
+    font-weight: bold;
+    cursor: pointer; }
+
+@media only screen and (min-width: 768px) {
+  .reveal-modal {
+    padding: 1.875em;
+    top: 6.25em; }
+    .reveal-modal.tiny {
+      margin-left: -15%;
+      width: 30%; }
+    .reveal-modal.small {
+      margin-left: -20%;
+      width: 40%; }
+    .reveal-modal.medium {
+      margin-left: -30%;
+      width: 60%; }
+    .reveal-modal.large {
+      margin-left: -35%;
+      width: 70%; }
+    .reveal-modal.xlarge {
+      margin-left: -47.5%;
+      width: 95%; } }
+@media print {
+  .reveal-modal {
+    background: white !important; } }

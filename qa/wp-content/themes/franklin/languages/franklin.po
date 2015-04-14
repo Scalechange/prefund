@@ -1,0 +1,1260 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Franklin Wordpress Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-10-01 11:39+0930\n"
+"PO-Revision-Date: 2014-10-01 11:39+0930\n"
+"Last-Translator: Eric Daams <eric@164a.com>\n"
+"Language-Team: Studio164a <eric@164a.com>\n"
+"Language: en_AU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-KeywordsList: _n:1,2;__;_e;_x:1,2c;_ex:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:14
+msgid "Sorry, but you've hit a dead end."
+msgstr ""
+
+#: ../404.php:16
+msgid "Go home"
+msgstr ""
+
+#: ../account-links.php:11
+msgid "Create a campaign"
+msgstr ""
+
+#: ../account-links.php:18 ../inc/crowdfunding/widgets/campaign-author.php:79
+msgid "Profile"
+msgstr ""
+
+#: ../account-links.php:21
+msgid "Log out"
+msgstr ""
+
+#: ../account-links.php:25
+msgid "Login / Register"
+msgstr ""
+
+#: ../archive.php:16
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../archive.php:18
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../archive.php:18
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: ../archive.php:20
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../archive.php:20
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: ../archive.php:22
+msgid "Archives"
+msgstr ""
+
+#: ../author-links.php:14 ../inc/crowdfunding/widgets/campaign-author.php:65
+#, php-format
+msgid "Visit %s's website"
+msgstr ""
+
+#: ../author-links.php:20 ../inc/crowdfunding/widgets/campaign-author.php:69
+#, php-format
+msgid "Visit %s's Twitter profile"
+msgstr ""
+
+#: ../author-links.php:26 ../inc/crowdfunding/widgets/campaign-author.php:73
+#, php-format
+msgid "Visit %s's Facebook profile"
+msgstr ""
+
+#: ../author.php:25
+msgid "Details"
+msgstr ""
+
+#: ../author.php:27
+#, php-format
+msgid "Joined %s"
+msgstr ""
+
+#: ../author.php:28
+#, php-format
+msgid "Backed %d"
+msgstr ""
+
+#: ../author.php:29
+#, php-format
+msgid "Created %d"
+msgstr ""
+
+#: ../author.php:34
+msgid "Bio"
+msgstr ""
+
+#: ../author.php:46
+#, php-format
+msgid "Campaigns created by %s"
+msgstr ""
+
+#: ../author.php:58
+#, php-format
+msgid "Posts by %s"
+msgstr ""
+
+#: ../author.php:68 ../campaign-featured.php:36 ../campaign-featured.php:46
+#: ../campaign.php:28 ../featured_image.php:25
+#, php-format
+msgid "Go to %s"
+msgstr ""
+
+#: ../banner-campaign-archive.php:4
+#, php-format
+msgid "Campaigns%s"
+msgstr ""
+
+#: ../banner-campaign-edit.php:3
+msgid "Edit Campaign"
+msgstr ""
+
+#: ../banner-search.php:3
+msgid "Search Results"
+msgstr ""
+
+#: ../campaign-backers.php:10 ../campaign-blurb.php:68
+#: ../campaign-featured.php:68
+msgid "Backers"
+msgstr ""
+
+#: ../campaign-blurb.php:23 ../campaign.php:23
+msgid "Successful"
+msgstr ""
+
+#: ../campaign-blurb.php:29 ../campaign.php:26
+msgid "Unsuccessful"
+msgstr ""
+
+#: ../campaign-blurb.php:46
+#, php-format
+msgid "This campaign successfully reached its funding goal and ended %s"
+msgstr ""
+
+#: ../campaign-blurb.php:48
+#, php-format
+msgid "This campaign failed to reach its funding goal %s"
+msgstr ""
+
+#: ../campaign-blurb.php:54
+#, php-format
+msgctxt "x percent funded"
+msgid "%s Funded"
+msgstr ""
+
+#: ../campaign-blurb.php:60 ../campaign-featured.php:60 ../campaign.php:45
+msgid "Pledged"
+msgstr ""
+
+#: ../campaign-blurb.php:64 ../campaign-featured.php:64
+msgid "Goal"
+msgstr ""
+
+#: ../campaign-blurb.php:77
+msgid "Time left to donate"
+msgstr ""
+
+#: ../campaign-categories.php:3
+msgid "Browse by Category"
+msgstr ""
+
+#: ../campaign-featured.php:17
+msgid "Featured Project"
+msgid_plural "Featured Projects"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../campaign-featured.php:56 ../campaign.php:42
+msgid "Funded"
+msgstr ""
+
+#: ../campaign-grid.php:10
+msgid "Latest Projects"
+msgstr ""
+
+#: ../campaign-grid.php:22
+msgid "Previous Campaigns"
+msgstr ""
+
+#: ../campaign-modals.php:16
+msgid "Share Campaign"
+msgstr ""
+
+#: ../campaign-modals.php:20
+msgid "Embed Code"
+msgstr ""
+
+#: ../campaign-updates.php:12
+#: ../inc/crowdfunding/widgets/campaign-updates.php:17
+msgid "Campaign Updates"
+msgstr ""
+
+#: ../campaign.php:34 ../inc/sofa/sofa-template-tags.php:184
+#, php-format
+msgid "Link to %s"
+msgstr ""
+
+#: ../category.php:15
+#, php-format
+msgid "Category: %s"
+msgstr ""
+
+#: ../comments-campaign.php:9 ../comments.php:14
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: ../comments-campaign.php:23 ../comments.php:30
+msgid "Your email address will not be published."
+msgstr ""
+
+#: ../comments-campaign.php:30 ../comments.php:37
+msgctxt "post comment"
+msgid "Submit"
+msgstr ""
+
+#: ../comments-campaign.php:40 ../comments.php:47
+#, php-format
+msgid "One comment"
+msgid_plural "%1$s comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../comments-campaign.php:53 ../comments-campaign.php:75 ../comments.php:60
+#: ../comments.php:82
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:10
+msgid "Leave a comment"
+msgstr ""
+
+#: ../comments.php:28
+msgid " Required fields are marked *"
+msgstr ""
+
+#: ../comments.php:32
+#, php-format
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes: %s"
+msgstr ""
+
+#: ../comments.php:55
+msgid "Newer Comments"
+msgstr ""
+
+#: ../comments.php:56
+msgid "Older Comments"
+msgstr ""
+
+#: ../content-audio.php:23 ../content-video.php:28 ../content.php:16
+msgid "Pages: "
+msgstr ""
+
+#: ../functions.php:178
+msgid "Your pledge must be at least the minimum pledge amount."
+msgstr ""
+
+#: ../functions.php:179
+msgid "Years"
+msgstr ""
+
+#: ../functions.php:180
+msgid "Months"
+msgstr ""
+
+#: ../functions.php:181
+msgid "Weeks"
+msgstr ""
+
+#: ../functions.php:182
+msgid "Days"
+msgstr ""
+
+#: ../functions.php:183
+msgid "Hours"
+msgstr ""
+
+#: ../functions.php:184
+msgid "Minutes"
+msgstr ""
+
+#: ../functions.php:185
+msgid "Seconds"
+msgstr ""
+
+#: ../functions.php:186
+msgid "Year"
+msgstr ""
+
+#: ../functions.php:187
+msgid "Month"
+msgstr ""
+
+#: ../functions.php:188
+msgid "Day"
+msgstr ""
+
+#: ../functions.php:189
+msgid "Hour"
+msgstr ""
+
+#: ../functions.php:190
+msgid "Minute"
+msgstr ""
+
+#: ../functions.php:191
+msgid "Second"
+msgstr ""
+
+#: ../functions.php:269
+msgid "Default sidebar"
+msgstr ""
+
+#: ../functions.php:270
+msgid "The default sidebar."
+msgstr ""
+
+#: ../functions.php:279
+msgid "Campaign sidebar"
+msgstr ""
+
+#: ../functions.php:280
+msgid "The campaign sidebar."
+msgstr ""
+
+#: ../functions.php:289
+msgid "Campaign below content"
+msgstr ""
+
+#: ../functions.php:290
+msgid "Displayed below the campaign's content, but above the comment section."
+msgstr ""
+
+#: ../functions.php:299
+msgid "Footer left"
+msgstr ""
+
+#: ../functions.php:308
+msgid "Footer right"
+msgstr ""
+
+#: ../functions.php:325 ../functions.php:326
+msgid "Hide post/page meta"
+msgstr ""
+
+#: ../functions.php:342
+msgid "Hide post/page meta?"
+msgstr ""
+
+#: ../functions.php:415
+#, php-format
+msgid "Keep reading %s"
+msgstr ""
+
+#: ../functions.php:415
+msgid "Continue Reading"
+msgstr ""
+
+#: ../inc/admin/customize-controls/textarea.class.php:39
+msgid "Default"
+msgstr ""
+
+#: ../inc/admin/customize.php:52
+msgid "Accent colour"
+msgstr ""
+
+#: ../inc/admin/customize.php:53
+msgid "Accent hover"
+msgstr ""
+
+#: ../inc/admin/customize.php:54
+msgid "Text on accent"
+msgstr ""
+
+#: ../inc/admin/customize.php:55
+msgid "Text on accent (secondary)"
+msgstr ""
+
+#: ../inc/admin/customize.php:56
+msgid "Body background colour"
+msgstr ""
+
+#: ../inc/admin/customize.php:57
+msgid "Body copy"
+msgstr ""
+
+#: ../inc/admin/customize.php:58
+msgid "Button text colour"
+msgstr ""
+
+#: ../inc/admin/customize.php:59
+msgid "Wrapper background colour"
+msgstr ""
+
+#: ../inc/admin/customize.php:60
+msgid "Posts background colour"
+msgstr ""
+
+#: ../inc/admin/customize.php:61
+msgid "Widget background colour"
+msgstr ""
+
+#: ../inc/admin/customize.php:62
+msgid "Primary border "
+msgstr ""
+
+#: ../inc/admin/customize.php:63
+msgid "Secondary border"
+msgstr ""
+
+#: ../inc/admin/customize.php:64
+msgid "Meta text"
+msgstr ""
+
+#: ../inc/admin/customize.php:65
+msgid "Footer text"
+msgstr ""
+
+#: ../inc/admin/customize.php:66
+msgid "Footer titles"
+msgstr ""
+
+#: ../inc/admin/customize.php:67
+msgid "Header buttons"
+msgstr ""
+
+#: ../inc/admin/customize.php:68
+msgid "Header buttons hover"
+msgstr ""
+
+#: ../inc/admin/customize.php:110 ../inc/admin/customize.php:448
+msgid "Select"
+msgstr ""
+
+#: ../inc/admin/customize.php:111
+msgid "Diagonal grain"
+msgstr ""
+
+#: ../inc/admin/customize.php:112
+msgid "Fabric"
+msgstr ""
+
+#: ../inc/admin/customize.php:113
+msgid "Grain"
+msgstr ""
+
+#: ../inc/admin/customize.php:114
+msgid "Grid"
+msgstr ""
+
+#: ../inc/admin/customize.php:115
+msgid "Grunge"
+msgstr ""
+
+#: ../inc/admin/customize.php:116
+msgid "Lined paper"
+msgstr ""
+
+#: ../inc/admin/customize.php:117
+msgid "Textured paper"
+msgstr ""
+
+#: ../inc/admin/customize.php:118
+msgid "Tweed"
+msgstr ""
+
+#: ../inc/admin/customize.php:159
+msgid "Logo"
+msgstr ""
+
+#: ../inc/admin/customize.php:166
+msgid "Retina version of logo (2x)"
+msgstr ""
+
+#: ../inc/admin/customize.php:171
+msgid "Hide the site title"
+msgstr ""
+
+#: ../inc/admin/customize.php:177
+msgid "Hide the tagline"
+msgstr ""
+
+#: ../inc/admin/customize.php:193
+msgid "Palette"
+msgstr ""
+
+#: ../inc/admin/customize.php:198
+msgid "Orange & Brown"
+msgstr ""
+
+#: ../inc/admin/customize.php:199
+msgid "Teal & Blue/Gray"
+msgstr ""
+
+#: ../inc/admin/customize.php:200
+msgid "Orange & Teal"
+msgstr ""
+
+#: ../inc/admin/customize.php:201
+msgid "Burnt Red & Plum"
+msgstr ""
+
+#: ../inc/admin/customize.php:202
+msgid "Orange & Beige"
+msgstr ""
+
+#: ../inc/admin/customize.php:203
+msgid "Mint & Steel"
+msgstr ""
+
+#: ../inc/admin/customize.php:226
+msgid "Background Textures"
+msgstr ""
+
+#: ../inc/admin/customize.php:227
+msgid "Choose background textures for the body and campaign section"
+msgstr ""
+
+#: ../inc/admin/customize.php:241
+msgid "Background texture for the body:"
+msgstr ""
+
+#: ../inc/admin/customize.php:255 ../inc/admin/customize.php:277
+#: ../inc/admin/customize.php:299
+msgid "Upload your own background texture"
+msgstr ""
+
+#: ../inc/admin/customize.php:263
+msgid "Background texture for the campaign section:"
+msgstr ""
+
+#: ../inc/admin/customize.php:285
+msgid "Background texture for the blog & fullwidth page banner:"
+msgstr ""
+
+#: ../inc/admin/customize.php:310
+msgid "Blog"
+msgstr ""
+
+#: ../inc/admin/customize.php:311
+msgid "Set your blog title"
+msgstr ""
+
+#: ../inc/admin/customize.php:319
+msgid "Blog title"
+msgstr ""
+
+#: ../inc/admin/customize.php:332
+msgid "404"
+msgstr ""
+
+#: ../inc/admin/customize.php:333
+msgid "Set your 404 page title"
+msgstr ""
+
+#: ../inc/admin/customize.php:341
+msgid "404 title"
+msgstr ""
+
+#: ../inc/admin/customize.php:355
+msgid "Share on Twitter"
+msgstr ""
+
+#: ../inc/admin/customize.php:356
+msgid "Share on Facebook"
+msgstr ""
+
+#: ../inc/admin/customize.php:357
+msgid "Share on Google+"
+msgstr ""
+
+#: ../inc/admin/customize.php:358
+msgid "Share on LinkedIn"
+msgstr ""
+
+#: ../inc/admin/customize.php:359
+msgid "Share on Pinterest"
+msgstr ""
+
+#: ../inc/admin/customize.php:360
+msgid "Share with embed code"
+msgstr ""
+
+#: ../inc/admin/customize.php:365
+msgid "Campaigns"
+msgstr ""
+
+#: ../inc/admin/customize.php:366
+msgid "Configure your campaign pages"
+msgstr ""
+
+#: ../inc/admin/customize.php:387
+msgid "Text to display on campaign sharing widget"
+msgstr ""
+
+#: ../inc/admin/customize.php:390 ../inc/upgrade.php:32
+msgid ""
+"Spread the word about this campaign by sharing this widget. Copy the snippet "
+"of HTML code below and paste it on your blog, website or anywhere else on "
+"the web."
+msgstr ""
+
+#: ../inc/admin/customize.php:400
+msgid "Footer"
+msgstr ""
+
+#: ../inc/admin/customize.php:407
+msgid "Text for footer notice"
+msgstr ""
+
+#: ../inc/admin/customize.php:420
+msgid "Social"
+msgstr ""
+
+#: ../inc/admin/customize.php:421
+msgid "Set up links to your online social presences"
+msgstr ""
+
+#: ../inc/comments.php:15
+msgid "Name"
+msgstr ""
+
+#: ../inc/comments.php:18
+msgid "Website"
+msgstr ""
+
+#: ../inc/comments.php:21
+msgid "Email"
+msgstr ""
+
+#: ../inc/comments.php:40
+msgid "Leave your comment"
+msgstr ""
+
+#: ../inc/comments.php:80 ../inc/crowdfunding/template.php:531
+msgid "Pingback:"
+msgstr ""
+
+#: ../inc/comments.php:81 ../inc/crowdfunding/template.php:532
+msgid "Edit"
+msgstr ""
+
+#: ../inc/comments.php:94 ../inc/crowdfunding/template.php:545
+msgid "Author"
+msgstr ""
+
+#: ../inc/comments.php:98
+msgctxt "comment post on date at time"
+msgid "at"
+msgstr ""
+
+#: ../inc/comments.php:99 ../inc/crowdfunding/template.php:552
+msgctxt "reply to comment"
+msgid "Reply"
+msgstr ""
+
+#: ../inc/crowdfunding/crowdfunding.class.php:196
+#: ../inc/crowdfunding/crowdfunding.class.php:204
+msgid "Page Options"
+msgstr ""
+
+#: ../inc/crowdfunding/crowdfunding.class.php:200
+#: ../inc/crowdfunding/helpers.php:170 ../inc/crowdfunding/helpers.php:177
+msgid "Campaign"
+msgstr ""
+
+#: ../inc/crowdfunding/crowdfunding.class.php:223
+msgid "Featured Campaigns"
+msgstr ""
+
+#: ../inc/crowdfunding/crowdfunding.class.php:226
+msgid "Campaign(s) to show:"
+msgstr ""
+
+#: ../inc/crowdfunding/crowdfunding.class.php:228
+msgid "Ending soonest"
+msgstr ""
+
+#: ../inc/crowdfunding/crowdfunding.class.php:229
+msgid "Most recent"
+msgstr ""
+
+#: ../inc/crowdfunding/crowdfunding.class.php:230
+msgid "Random"
+msgstr ""
+
+#: ../inc/crowdfunding/crowdfunding.class.php:232
+msgid "Specific campaign"
+msgstr ""
+
+#: ../inc/crowdfunding/crowdfunding.class.php:261
+msgid "Link to featured campaigns page"
+msgstr ""
+
+#: ../inc/crowdfunding/crowdfunding.class.php:263
+msgid "- Select -"
+msgstr ""
+
+#: ../inc/crowdfunding/crowdfunding.class.php:274
+msgid "Featured campaigns page link text"
+msgstr ""
+
+#: ../inc/crowdfunding/crowdfunding.class.php:302
+msgid "Display grid of most recent campaigns"
+msgstr ""
+
+#: ../inc/crowdfunding/crowdfunding.class.php:308
+msgid "Display list of campaign categories"
+msgstr ""
+
+#: ../inc/crowdfunding/crowdfunding.class.php:314
+msgid "Layer Slider"
+msgstr ""
+
+#: ../inc/crowdfunding/crowdfunding.class.php:318
+msgid "Select a slider to display"
+msgstr ""
+
+#: ../inc/crowdfunding/crowdfunding.class.php:347
+msgid "Select a campaign:"
+msgstr ""
+
+#: ../inc/crowdfunding/crowdfunding.class.php:801
+msgid "Older Campaigns"
+msgstr ""
+
+#: ../inc/crowdfunding/crowdfunding.class.php:816
+msgid "Newer Campaigns"
+msgstr ""
+
+#: ../inc/crowdfunding/helpers.php:32
+msgid "Categories"
+msgstr ""
+
+#: ../inc/crowdfunding/helpers.php:33
+msgid "All"
+msgstr ""
+
+#: ../inc/crowdfunding/helpers.php:72
+msgid "ago"
+msgstr ""
+
+#: ../inc/crowdfunding/helpers.php:171
+msgid "does not end"
+msgstr ""
+
+#: ../inc/crowdfunding/helpers.php:178
+msgid "is finished"
+msgstr ""
+
+#: ../inc/crowdfunding/helpers.php:193
+msgid "day left"
+msgid_plural "days left"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/crowdfunding/helpers.php:207
+msgid "hour left"
+msgid_plural "hours left"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/crowdfunding/helpers.php:217
+msgid "minute left"
+msgid_plural "minutes left"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/crowdfunding/helpers.php:411 ../inc/crowdfunding/template.php:302
+msgid "Pledge"
+msgstr ""
+
+#: ../inc/crowdfunding/shortcode-profile.php:21
+msgid "Your Contributions"
+msgstr ""
+
+#: ../inc/crowdfunding/shortcode-profile.php:37
+#, php-format
+msgctxt "price for download (payment history)"
+msgid "%s pledge to %s"
+msgstr ""
+
+#: ../inc/crowdfunding/shortcode-register.php:13
+#: ../inc/crowdfunding/template.php:246
+msgid "Your Name"
+msgstr ""
+
+#: ../inc/crowdfunding/shortcode-register.php:18
+#: ../inc/crowdfunding/template.php:251
+msgid "Email Address"
+msgstr ""
+
+#: ../inc/crowdfunding/shortcode-register.php:23
+#: ../inc/crowdfunding/template.php:256
+msgid "Username"
+msgstr ""
+
+#: ../inc/crowdfunding/shortcode-register.php:28
+#: ../inc/crowdfunding/template.php:261
+msgid "Password"
+msgstr ""
+
+#: ../inc/crowdfunding/shortcode-register.php:33
+#: ../inc/crowdfunding/template.php:266 ../inc/crowdfunding/template.php:581
+msgid "Register"
+msgstr ""
+
+#: ../inc/crowdfunding/shortcode-submit.php:141
+#, php-format
+msgid "Your campaign's length can be between %d and %d days"
+msgstr ""
+
+#: ../inc/crowdfunding/shortcode-submit.php:153
+msgid "Length (Days)"
+msgstr ""
+
+#: ../inc/crowdfunding/shortcode-submit.php:176
+msgid "Category"
+msgstr ""
+
+#: ../inc/crowdfunding/shortcode-submit.php:188
+msgid "Tags"
+msgstr ""
+
+#: ../inc/crowdfunding/shortcode-submit.php:221
+msgid "Backer Rewards"
+msgstr ""
+
+#: ../inc/crowdfunding/shortcode-submit.php:224
+msgid "Collect shipping information on checkout."
+msgstr ""
+
+#: ../inc/crowdfunding/shortcode-submit.php:228
+msgid "No rewards, donations only."
+msgstr ""
+
+#: ../inc/crowdfunding/shortcode-submit.php:244
+#, php-format
+msgid "Amount (%s)"
+msgstr ""
+
+#: ../inc/crowdfunding/shortcode-submit.php:249
+msgid "Limit"
+msgstr ""
+
+#: ../inc/crowdfunding/shortcode-submit.php:254
+msgid "Reward"
+msgstr ""
+
+#: ../inc/crowdfunding/shortcode-submit.php:262
+msgid "Remove"
+msgstr ""
+
+#: ../inc/crowdfunding/shortcode-submit.php:269
+msgid "+ <em>Add Reward</em>"
+msgstr ""
+
+#: ../inc/crowdfunding/shortcode-submit.php:283
+msgid "Your Information"
+msgstr ""
+
+#: ../inc/crowdfunding/shortcode-submit.php:288
+msgid "Contact Email"
+msgstr ""
+
+#: ../inc/crowdfunding/shortcode-submit.php:289
+msgid ""
+"An account will be created for you with this email address. It must be "
+"active."
+msgstr ""
+
+#: ../inc/crowdfunding/shortcode-submit.php:292
+#, php-format
+msgid ""
+"<strong>Note</strong>: You are currently logged in as %1$s. This %2$s will "
+"be associated with that account. Please <a href=\"%3$s\">log out</a> if you "
+"would like to make a %2$s under a new account."
+msgstr ""
+
+#: ../inc/crowdfunding/shortcode-submit.php:321
+msgid "Show Terms"
+msgstr ""
+
+#: ../inc/crowdfunding/shortcode-submit.php:322
+msgid "Hide Terms"
+msgstr ""
+
+#: ../inc/crowdfunding/shortcode-submit.php:326
+msgid "Agree to Terms?"
+msgstr ""
+
+#: ../inc/crowdfunding/template.php:40
+msgid "Enter Pledge Amount"
+msgstr ""
+
+#: ../inc/crowdfunding/template.php:79 ../inc/crowdfunding/template.php:319
+msgid "Unlimited backers"
+msgstr ""
+
+#: ../inc/crowdfunding/template.php:89 ../inc/crowdfunding/template.php:317
+#, php-format
+msgid "%d of %d remaining"
+msgstr ""
+
+#: ../inc/crowdfunding/template.php:379
+msgid "No backers yet. Be the first!"
+msgstr ""
+
+#: ../inc/crowdfunding/template.php:494
+#, php-format
+msgid "%s Campaign"
+msgid_plural "%s Campaigns"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/crowdfunding/template.php:498
+#, php-format
+msgid "%s Funded"
+msgstr ""
+
+#: ../inc/crowdfunding/template.php:502
+#, php-format
+msgid "%s Backer"
+msgid_plural "%s Backers"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/crowdfunding/template.php:551
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: ../inc/crowdfunding/template.php:577
+msgid "Login"
+msgstr ""
+
+#: ../inc/crowdfunding/widgets/campaign-author.php:17
+msgid "Campaign Author"
+msgstr ""
+
+#: ../inc/crowdfunding/widgets/campaign-author.php:18
+msgid "Display the campaign creator's details."
+msgstr ""
+
+#: ../inc/crowdfunding/widgets/campaign-author.php:59
+#, php-format
+msgid "%d campaign"
+msgid_plural "%d campaigns"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/crowdfunding/widgets/campaign-author.php:106
+#: ../inc/crowdfunding/widgets/campaign-backers.php:66
+#: ../inc/crowdfunding/widgets/campaign-pledge-levels.php:55
+#: ../inc/crowdfunding/widgets/campaign-updates.php:62
+#: ../inc/crowdfunding/widgets/campaign-video.php:54
+#: ../inc/crowdfunding/widgets/stats.php:44 ../inc/widgets/sofa-posts.php:40
+msgid "Title:"
+msgstr ""
+
+#: ../inc/crowdfunding/widgets/campaign-author.php:112
+#: ../inc/crowdfunding/widgets/campaign-backers.php:72
+#: ../inc/crowdfunding/widgets/campaign-pledge-levels.php:60
+#: ../inc/crowdfunding/widgets/campaign-updates.php:67
+#: ../inc/crowdfunding/widgets/campaign-video.php:59
+msgid "Campaign:"
+msgstr ""
+
+#: ../inc/crowdfunding/widgets/campaign-author.php:114
+#: ../inc/crowdfunding/widgets/campaign-backers.php:74
+#: ../inc/crowdfunding/widgets/campaign-pledge-levels.php:62
+#: ../inc/crowdfunding/widgets/campaign-updates.php:69
+#: ../inc/crowdfunding/widgets/campaign-video.php:61
+msgid "Campaign currently viewed"
+msgstr ""
+
+#: ../inc/crowdfunding/widgets/campaign-author.php:115
+#: ../inc/crowdfunding/widgets/campaign-backers.php:75
+#: ../inc/crowdfunding/widgets/campaign-pledge-levels.php:63
+#: ../inc/crowdfunding/widgets/campaign-updates.php:70
+#: ../inc/crowdfunding/widgets/campaign-video.php:62
+msgid "Specific campaigns"
+msgstr ""
+
+#: ../inc/crowdfunding/widgets/campaign-backers.php:17
+msgid "Campaign Backers"
+msgstr ""
+
+#: ../inc/crowdfunding/widgets/campaign-backers.php:18
+msgid "Display a campaign's backers."
+msgstr ""
+
+#: ../inc/crowdfunding/widgets/campaign-backers.php:85
+msgid "Number of backers to show:"
+msgstr ""
+
+#: ../inc/crowdfunding/widgets/campaign-backers.php:90
+msgid "Show backer's name:"
+msgstr ""
+
+#: ../inc/crowdfunding/widgets/campaign-backers.php:95
+msgid "Show backer's pledge amount:"
+msgstr ""
+
+#: ../inc/crowdfunding/widgets/campaign-backers.php:100
+msgid "Show backer's location:"
+msgstr ""
+
+#: ../inc/crowdfunding/widgets/campaign-backers.php:105
+msgid "Hide if there are no backers:"
+msgstr ""
+
+#: ../inc/crowdfunding/widgets/campaign-pledge-levels.php:16
+msgid "Campaign Pledge Levels"
+msgstr ""
+
+#: ../inc/crowdfunding/widgets/campaign-pledge-levels.php:17
+msgid "Display a campaign's pledge levels."
+msgstr ""
+
+#: ../inc/crowdfunding/widgets/campaign-updates.php:18
+msgid "Display a campaign's updates."
+msgstr ""
+
+#: ../inc/crowdfunding/widgets/campaign-video.php:17
+msgid "Campaign Video"
+msgstr ""
+
+#: ../inc/crowdfunding/widgets/campaign-video.php:18
+msgid "Display a campaign's video."
+msgstr ""
+
+#: ../inc/crowdfunding/widgets/stats.php:17
+msgid "Crowdfunding Stats"
+msgstr ""
+
+#: ../inc/crowdfunding/widgets/stats.php:18
+msgid "Display a the website's crowdfunding stats."
+msgstr ""
+
+#: ../inc/sofa/sofa-template-tags.php:46
+msgid "Go to homepage"
+msgstr ""
+
+#: ../inc/sofa/sofa-template-tags.php:128
+msgid "Older Posts"
+msgstr ""
+
+#: ../inc/sofa/sofa-template-tags.php:129
+msgid "Newer Posts"
+msgstr ""
+
+#: ../inc/sofa/sofa-template-tags.php:133
+msgid "Post navigation"
+msgstr ""
+
+#: ../inc/sofa/sofa.php:160
+msgid "Bitbucket"
+msgstr ""
+
+#: ../inc/sofa/sofa.php:161
+msgid "Dribbble"
+msgstr ""
+
+#: ../inc/sofa/sofa.php:162
+msgid "Facebook"
+msgstr ""
+
+#: ../inc/sofa/sofa.php:163
+msgid "Flickr"
+msgstr ""
+
+#: ../inc/sofa/sofa.php:164
+msgid "Foursquare"
+msgstr ""
+
+#: ../inc/sofa/sofa.php:165
+msgid "Github"
+msgstr ""
+
+#: ../inc/sofa/sofa.php:166
+msgid "Google+"
+msgstr ""
+
+#: ../inc/sofa/sofa.php:167
+msgid "Gittip"
+msgstr ""
+
+#: ../inc/sofa/sofa.php:168
+msgid "Instagram"
+msgstr ""
+
+#: ../inc/sofa/sofa.php:169
+msgid "Linkedin"
+msgstr ""
+
+#: ../inc/sofa/sofa.php:170
+msgid "Pinterest"
+msgstr ""
+
+#: ../inc/sofa/sofa.php:171
+msgid "Renren"
+msgstr ""
+
+#: ../inc/sofa/sofa.php:172
+msgid "Skype"
+msgstr ""
+
+#: ../inc/sofa/sofa.php:173
+msgid "Stackexchange"
+msgstr ""
+
+#: ../inc/sofa/sofa.php:174
+msgid "Trello"
+msgstr ""
+
+#: ../inc/sofa/sofa.php:175
+msgid "Tumblr"
+msgstr ""
+
+#: ../inc/sofa/sofa.php:176
+msgid "Twitter"
+msgstr ""
+
+#: ../inc/sofa/sofa.php:177
+msgid "VK"
+msgstr ""
+
+#: ../inc/sofa/sofa.php:178
+msgid "Weibo"
+msgstr ""
+
+#: ../inc/sofa/sofa.php:179
+msgid "Windows"
+msgstr ""
+
+#: ../inc/sofa/sofa.php:180
+msgid "Xing"
+msgstr ""
+
+#: ../inc/sofa/sofa.php:181
+msgid "YouTube"
+msgstr ""
+
+#: ../inc/sofa/sofa.php:275
+msgid "Customize"
+msgstr ""
+
+#: ../inc/sofa/sofa.php:327
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../inc/widgets/sofa-posts.php:17
+msgid "Sofa Posts Widget"
+msgstr ""
+
+#: ../inc/widgets/sofa-posts.php:18
+msgid "A widget to display posts with their featured thumbnails."
+msgstr ""
+
+#: ../inc/widgets/sofa-posts.php:45
+msgid "Number of posts to show:"
+msgstr ""
+
+#: ../inc/widgets/sofa-posts.php:50
+msgid "Limit by category:"
+msgstr ""
+
+#: ../inc/widgets/sofa-posts.php:52
+msgid "Show all"
+msgstr ""
+
+#: ../inc/widgets/sofa-posts.php:60
+msgid "Only show posts with a featured thumbnail:"
+msgstr ""
+
+#: ../inc/widgets/sofa-posts.php:65
+msgid "Show post thumbnail:"
+msgstr ""
+
+#: ../inc/widgets/sofa-posts.php:70
+msgid "Show post excerpt:"
+msgstr ""
+
+#: ../inc/widgets/sofa-posts.php:75
+msgid "Show post meta:"
+msgstr ""
+
+#: ../inc/widgets/sofa-posts.php:237
+#, php-format
+msgid "By %s with %s%d comment%s"
+msgid_plural "By %s with %s%d comments%s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/wpml/helpers.php:40
+msgid "This post is also available in: "
+msgstr ""
+
+#: ../meta-campaign.php:2 ../meta-inside.php:3
+#, php-format
+msgctxt "by author"
+msgid "By %s"
+msgstr ""
+
+#: ../meta-inside.php:2
+#, php-format
+msgctxt "posted on date"
+msgid "Posted on %s"
+msgstr ""
+
+#: ../meta-inside.php:6
+#, php-format
+msgid "With %s comment"
+msgid_plural "With %s comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../search.php:14
+#, php-format
+msgid "Showing results for %s"
+msgstr ""
+
+#: ../searchform.php:2
+msgid "Search"
+msgstr ""
+
+#: ../sharing.php:2
+msgid "Share"
+msgstr ""
+
+#: ../tag.php:15
+#, php-format
+msgid "Tag archives: %s"
+msgstr ""
